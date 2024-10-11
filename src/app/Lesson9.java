@@ -77,8 +77,8 @@ public class Lesson9 {
             return false;
         }
 
-        int rowSum = 0;
-        int colSum = 0;
+        int rowSum;
+        int colSum;
 
         for (int i = 0; i < 4; i++) {
             rowSum = 0;
